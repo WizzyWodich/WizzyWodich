@@ -14,13 +14,7 @@
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizzyWodich&show_icons=true&theme=dracula)
-
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WizzyWodich&show_icons=true&theme=dracula"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuchezh&layout=compact&theme=dracula" />
 </p>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/WizzyWodich/WizzyWodich/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" />
-    <img src="https://raw.githubusercontent.com/WizzyWodich/WizzyWodich/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" />
-</div>
