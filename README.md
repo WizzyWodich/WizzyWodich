@@ -14,6 +14,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizzyWodich&show_icons=true&theme=dracula)
 
-<img src="https://github-readme-stats.vercel.app/api?username=teWizzyWodich&count_private=true&show_icons=true&theme=buefy" />
+<img src="https://github-readme-stats.vercel.app/api?username=WizzyWodich&count_private=true&show_icons=true&theme=buefy" />
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/WizzyWodich/WizzyWodich/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/WizzyWodich/WizzyWodich/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/WizzyWodich/WizzyWodich/output/github-contribution-grid-snake.svg#gh-light-mode-only)
