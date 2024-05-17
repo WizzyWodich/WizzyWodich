@@ -15,6 +15,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 <h1 align="center">Статистика
+<h3></h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WizzyWodich&show_icons=true&theme=dracula"/>
