@@ -1,7 +1,9 @@
 <h1 align="center">Привет меня зовут <a>Кирилл</a> 
 <h3 align="center">Мне 19 лет я студент из Украины</h3>
 
-<img align="center" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc" width="375" height="211"/>
+<div style="text-align: center;">
+    <img src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc" width="375" height="211"/>
+</div>
 
 <h1 align="center">Языки програмирования
 <h3 align="center">Которые я знаю и изучаю</h3>
