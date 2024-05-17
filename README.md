@@ -1,9 +1,9 @@
 <h1 align="center">Привет меня зовут <a>Кирилл</a> 
 <h3 align="center">Мне 19 лет я студент из Украины</h3>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc" width="375" height="211"/>
-</div>
+</p>
 
 <h1 align="center">Языки програмирования
 <h3 align="center">Которые я знаю и изучаю</h3>
@@ -16,6 +16,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizzyWodich&show_icons=true&theme=dracula)
 
-<img src="https://github-readme-stats.vercel.app/api?username=WizzyWodich&count_private=true&show_icons=true&theme=buefy" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuchezh&layout=compact&theme=dracula" />
+</p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/WizzyWodich/WizzyWodich/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/WizzyWodich/WizzyWodich/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/WizzyWodich/WizzyWodich/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" />
+    <img src="https://raw.githubusercontent.com/WizzyWodich/WizzyWodich/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" />
+</div>
