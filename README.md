@@ -1,7 +1,7 @@
 <h1 align="center">Привет меня зовут <a>Daniil</a> 
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-<img src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc" width="750" height="211"/>
+<img src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc" width="375" height="211"/>
 
 <h1 align="center">Языки програмирования
 <h3 align="center">Которые я знаю и изучаю</h3>
@@ -12,10 +12,10 @@
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<h3 align="left">Операционая система: 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) </h3>
+<h3 align="left">Операционая система: </h3>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizzyWodich&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyWodich&layout=compact)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="672" height="158"
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="672" height="158"/>
