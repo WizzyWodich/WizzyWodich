@@ -1,7 +1,7 @@
 <h1 align="center">Привет меня зовут <a>Кирилл</a> 
 <h3 align="center">Мне 19 лет я студент из Украины</h3>
 
-<img src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc" width="375" height="211"/>
+<img align="center" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc" width="375" height="211"/>
 
 <h1 align="center">Языки програмирования
 <h3 align="center">Которые я знаю и изучаю</h3>
@@ -13,6 +13,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizzyWodich&show_icons=true&theme=dracula)
-<img src="https://github-readme-stats.vercel.app/api?username=teWizzyWodichuchezh&count_private=true&show_icons=true&theme=buefy" />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="672" height="158"/>
+<img src="https://github-readme-stats.vercel.app/api?username=teWizzyWodich&count_private=true&show_icons=true&theme=buefy" />
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/WizzyWodich/WizzyWodich/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
