@@ -12,7 +12,8 @@
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<h3 align="left">Операционая система: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) </h3>
+<h3 align="left">Операционая система: 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizzyWodich&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyWodich&layout=compact)
